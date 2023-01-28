@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SonumSararyCalculateApplication {
+public class SonumSalaryCalculateApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SonumSararyCalculateApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SonumSalaryCalculateApplication.class, args);
+    }
 
 }
